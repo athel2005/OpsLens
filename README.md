@@ -1,10 +1,10 @@
-# 📊 OpsLens — Business Analytics API
+# OpsLens — Business Analytics API
 
 > **An end-to-end Data Engineering & Analytics project that transforms raw retail transaction data into a PostgreSQL database and exposes business insights through a FastAPI REST API.**
 
 ---
 
-## 🎯 Overview
+## Overview
 
 **OpsLens** is a business analytics API built around real-world retail transaction data.
 
@@ -34,7 +34,7 @@ Rather than focusing solely on dashboards, OpsLens focuses on **practical Data E
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The project uses the **Online Retail Dataset** from the **UCI Machine Learning Repository**.
 
@@ -51,12 +51,10 @@ The dataset contains transaction records from a UK-based online retailer, includ
 | `CustomerID`  | Customer identifier          |
 | `Country`     | Customer's country           |
 
-📚 **Dataset Source:**
+**Dataset Source:**
 [UCI Machine Learning Repository — Online Retail](https://archive.ics.uci.edu/dataset/352/online+retail)
 
 ---
-
-## 🛠️ Tech Stack
 
 ### Data Engineering & Analytics
 
@@ -78,24 +76,24 @@ The dataset contains transaction records from a UK-based online retailer, includ
 
 ---
 
-## 📈 Business Analytics
+## Business Analytics
 
 OpsLens is designed to answer practical business questions such as:
 
-* 💰 What is the **total revenue**?
-* 📅 What are the **monthly revenue trends**?
-* 🏆 Which products generate the **most revenue**?
-* 👥 Which customers generate the **highest revenue**?
-* 🌍 Which countries perform the **best**?
-* 🧾 What is the **Average Order Value (AOV)**?
-* ⏰ What are the **busiest sales periods**?
-* ❌ What percentage of transactions were **cancelled**?
+* What is the **total revenue**?
+* What are the **monthly revenue trends**?
+* Which products generate the **most revenue**?
+* Which customers generate the **highest revenue**?
+* Which countries perform the **best**?
+* What is the **Average Order Value (AOV)**?
+* What are the **busiest sales periods**?
+* What percentage of transactions were **cancelled**?
 
 These insights will ultimately be accessible through the **FastAPI REST API**.
 
 ---
 
-## 🏗️ Project Architecture
+## Project Architecture
 
 ```text
                     ┌─────────────────────┐
@@ -147,7 +145,7 @@ These insights will ultimately be accessible through the **FastAPI REST API**.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 OpsLens/
@@ -176,9 +174,9 @@ OpsLens/
 
 ---
 
-## 🚧 Project Status
+## Project Status
 
-**🟡 In Development**
+**In Development**
 
 ### Current Progress
 
@@ -195,7 +193,7 @@ OpsLens/
 
 ---
 
-## 🎓 What This Project Demonstrates
+## What This Project Demonstrates
 
 OpsLens is designed to demonstrate practical skills in:
 
@@ -214,7 +212,7 @@ OpsLens is designed to demonstrate practical skills in:
 
 ---
 
-## 👤 Author
+## Author
 
 ### Athel
 
@@ -225,7 +223,7 @@ This project is created for **educational and portfolio purposes** using publicl
 
 ---
 
-## ⭐ Project Goal
+## Project Goal
 
 > **Turn raw business data into reliable, queryable, and accessible business intelligence through a complete data pipeline and REST API.**
 
